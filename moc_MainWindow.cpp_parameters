@@ -1,0 +1,4 @@
+-I/usr/local/include/opencv4
+-o
+/home/artem/pix/moc_MainWindow.cpp
+/home/artem/pix/MainWindow.h
